@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://michtesar.github.io/sitemap.xml
